@@ -6,7 +6,7 @@
 
 Skills:  REACT / JS / HTML / CSS/MongoDB/ExpressJs/node js/TalwindCSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning next js 
 - 👯 I’m looking to collaborate on Linkedin 
 
